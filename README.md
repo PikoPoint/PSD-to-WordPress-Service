@@ -25,7 +25,7 @@
 
 <ul class="mb35 mt10"><li><strong> Free support after the delivery </strong><br>   We're a professional and dedicated team, and we're happy to provide you with 30-day free support after theme delivery.</li></ul>
 
-<p class="mb35">PSDtoWPService.net provides you simple,  powerful solutions to get your site up &amp; running in no time. We offer reliable and fast support, 100% customer satisfaction and money-back guarantee. Ready for a PSD to WordPress service!</p>
+<p class="mb35">pikopoint provides you simple,  powerful solutions to get your site up &amp; running in no time. We offer reliable and fast support, 100% customer satisfaction and money-back guarantee. Ready for a PSD to WordPress service!</p>
 
 <figure class="wp-block-image size-large"><img src="https://psdtowpservice.net/wp-content/uploads/2020/01/psdtowp-pricing-1024x762.png" alt="PSD to WP Pricing" class="wp-image-483"/></figure>
 
